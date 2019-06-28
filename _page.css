@@ -1,0 +1,24 @@
+#header {
+  width: 100%;
+  height: 900px;
+  background-color: aqua;
+}
+
+h1 {
+  color: brown;
+  text-decoration: underline;
+}
+
+.links {
+  width: 100%;
+  height: 70px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: chocolate;
+}
+/*# sourceMappingURL=main.css.map */
